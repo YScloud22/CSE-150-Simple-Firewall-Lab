@@ -1,4 +1,4 @@
-CSE 150 (Computer Networks) Lab Assignment on creating a simple firewall using OpenFlow on Mininet Virtual Machine.
+CSE 150 (Computer Networks) Lab3 Assignment on creating a simple firewall using OpenFlow on Mininet Virtual Machine.
 
 yshi81-lab3.pdf
 - Contains responses to all of lab questions and specifications with screenshots.
